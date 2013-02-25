@@ -1,0 +1,19 @@
+.noPrint {
+    display: none;
+}
+body {
+	background: white;
+	font-size: 12pt;
+}
+	
+#wrapper, #content {
+	width: 10in; 
+	margin: 0;
+	padding: 0; 
+	border: 0;
+	float: none !important;
+	color: black; 
+	background: transparent;
+}
+	
+	
